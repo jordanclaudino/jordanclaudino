@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jordan Claudino
+- 👀 I’m interested in jobs
+- 🌱 I’m currently learning Kotlin anda Java to create and consume API's
+- 📫 How to reach me LinkedIn with link: https://www.linkedin.com/in/claudinojordan/
